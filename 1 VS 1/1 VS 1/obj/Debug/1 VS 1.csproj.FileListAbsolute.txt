@@ -1,0 +1,10 @@
+C:\Users\Metin\source\repos\Metin Form\1 VS 1\1 VS 1\bin\Debug\1 VS 1.exe.config
+C:\Users\Metin\source\repos\Metin Form\1 VS 1\1 VS 1\bin\Debug\1 VS 1.exe
+C:\Users\Metin\source\repos\Metin Form\1 VS 1\1 VS 1\bin\Debug\1 VS 1.pdb
+C:\Users\Metin\source\repos\Metin Form\1 VS 1\1 VS 1\obj\Debug\1 VS 1.csprojAssemblyReference.cache
+C:\Users\Metin\source\repos\Metin Form\1 VS 1\1 VS 1\obj\Debug\_1_VS_1.Form1.resources
+C:\Users\Metin\source\repos\Metin Form\1 VS 1\1 VS 1\obj\Debug\_1_VS_1.Properties.Resources.resources
+C:\Users\Metin\source\repos\Metin Form\1 VS 1\1 VS 1\obj\Debug\1 VS 1.csproj.GenerateResource.cache
+C:\Users\Metin\source\repos\Metin Form\1 VS 1\1 VS 1\obj\Debug\1 VS 1.csproj.CoreCompileInputs.cache
+C:\Users\Metin\source\repos\Metin Form\1 VS 1\1 VS 1\obj\Debug\1 VS 1.exe
+C:\Users\Metin\source\repos\Metin Form\1 VS 1\1 VS 1\obj\Debug\1 VS 1.pdb
